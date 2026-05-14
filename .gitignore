@@ -1,0 +1,12 @@
+# Datasets grandes — baixar manualmente (ver README)
+data/
+
+# Outputs gerados pelo Spark
+output/
+
+# Checkpoints e cache do Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Parquet gerado
+*.parquet
