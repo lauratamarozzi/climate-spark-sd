@@ -1,6 +1,3 @@
-# Outputs gerados pelo Spark
-output/
-
 # Checkpoints e cache do Jupyter
 .ipynb_checkpoints/
 __pycache__/
