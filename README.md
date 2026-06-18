@@ -1,4 +1,4 @@
-# 🌡️ Análise Global de Mudanças Climáticas — Apache Spark
+# Análise Global de Mudanças Climáticas — Apache Spark
 ### Sistemas Distribuídos | UEL | 2026
 
 ---
